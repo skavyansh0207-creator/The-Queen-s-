@@ -1,0 +1,8 @@
+{
+  "name": "The Queen's: A Family Salon Chandigarh",
+  "description": "The Queen's: A Family Salon - Luxury Family Salon & Beauty Studio in Sector 28 D, Chandigarh (Near Pal Dhaba). Rated 5.0★ (379+ reviews). Brows, Lashes, Hair extensions, Acne treatments, Brazilian waxing, Relaxing massage, and Wedding preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
